@@ -44,7 +44,7 @@ h6 {
 /* Terms and Conditions Style */
 #Terms-and-conditions{
     width: 100%;
-    padding: 50px 0;
+    padding: 50px 0px 10px 10px;
     background-color: #FFFFFF;
     text-align: left;
     font-family: var(--font-Inter);   
