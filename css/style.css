@@ -55,6 +55,12 @@ h6 {
     font-weight: 700;
 }
 
+
+#privacy-policy h1{
+    color: var(--color-primary);
+    font-weight: 700;
+}
+
 #Terms-and-conditions h6{
     font-weight: 600;
 }
