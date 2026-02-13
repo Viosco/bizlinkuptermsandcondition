@@ -42,7 +42,7 @@ h6 {
 }
 
 /* Terms and Conditions Style */
-#Terms-and-conditions{
+#privacy-policy{
     width: 100%;
     padding: 10px 10px 5px 10px;
     background-color: #FFFFFF;
@@ -50,28 +50,13 @@ h6 {
     font-family: var(--font-Inter);   
 }
 
-#Terms-and-conditions h1{
-    color: var(--color-primary);
-    font-weight: 700;
-}
-
-
 #privacy-policy h1{
     color: var(--color-primary);
     font-weight: 700;
 }
 
-#Terms-and-conditions h6{
-    font-weight: 600;
-}
-
 #privacy-policy h6{
     font-weight: 600;
-}
-
-#Terms-and-conditions p{
-    font-weight: 400;
-    margin-bottom: 10px;
 }
 
 #privacy-policy p{
